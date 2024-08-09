@@ -10,7 +10,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "A Primeira Guerra Mundial causou uma grande mobilização de mulheres para o mercado de trabalho, já que muitos homens estavam na frente de batalha, o que resultou em mudanças significativas nas normas de gênero e no papel das mulheres na sociedade.",
-                afirmacao: "(Explicação: Durante a Primeira Guerra Mundial, as mulheres desempenharam um papel crucial em fábricas e outros setores, o que contribuiu para mudanças duradouras nas expectativas e nas oportunidades de trabalho para as mulheres.. "
+                afirmacao: "Durante a Primeira Guerra Mundial, as mulheres desempenharam um papel crucial em fábricas e outros setores, o que contribuiu para mudanças duradouras nas expectativas e nas oportunidades de trabalho para as mulheres.. "
             },
             {
                 texto: "A guerra levou à estabilização das normas sociais e ao fortalecimento das instituições tradicionais, sem grandes mudanças nas estruturas de gênero ou na mobilidade social.",
@@ -41,19 +41,6 @@ const perguntas = [
             {
                 texto: "A ONU teve um impacto limitado na cooperação internacional e na promoção dos direitos humanos, com pouca influência nas questões de conflitos e desenvolvimento global.",
                 afirmacao: "Na verdade, a ONU desempenha um papel crucial na promoção da cooperação internacional e dos direitos humanos, com uma influência significativa em questões de conflitos e desenvolvimento global.)"
-            }
-        ]
-    },
-    {
-        enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
-        alternativas: [
-            {
-                texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
-                afirmacao: "Notou também que muitas pessoas não sabem ainda utilizar as ferramentas tradicionais e decidiu compartilhar seus conhecimentos de design utilizando ferramentas de pintura digital para iniciantes."
-            },
-            {
-                texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
-                afirmacao: "Acelerou o processo de criação de trabalhos utilizando geradores de imagem e agora consegue ensinar pessoas que sentem dificuldades em desenhar manualmente como utilizar também!"
             }
         ]
     },
